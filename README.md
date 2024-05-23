@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejal Rathva</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">Passionate About Web Technologies and User Experience</h3>
 <!--<img align="right" alt="coding" width=350 src="https://github.com/sejalRathva/sejalRathva/assets/126377582/bb6c9e8c-73e5-4918-8c76-467078db559f"></img>-->
 
 
