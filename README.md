@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sejal Rathva</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">Bringing Designs to Life Through Code</h3>
 <!-- <img  align="right" alt="coding" width=400 src="https://github.com/sejalRathva/sejalRathva/assets/126377582/f7a824a2-3523-440f-b2e8-b54719b56077"></img> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalrathva&label=Profile%20views&color=0e75b6&style=flat" alt="sejalrathva" /> </p>
 
